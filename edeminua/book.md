@@ -1331,13 +1331,13 @@ Smart City.
 прозорість. Саме за допомогою доступних і прозорих інструментів можна ефективно
 впливати на стан та розвиток міста й держави.
 
-[30]: Конституція України [Електронний ресурс]. – Режим доступу:  http://zakon3.rada.gov.ua/laws/show/254%D0%BA/96-%D0%B2%D1%80
-[31]: Конституція України [Електронний ресурс]. – Режим доступу:  http://zakon3.rada.gov.ua/laws/show/254%D0%BA/96-%D0%B2%D1%80
-[32]: Закону України «Про звернення громадян» [Електронний ресурс]. – Режим доступу: http://zakon3.rada.gov.ua/laws/show/393/96-%D0%B2%D1%80
-[33]: У Верховній Раді відбувається тестування інформаційного ресурсу «Портал громадського обговорення законопроектів» [Електронний ресурс]. – Режим доступу: https://www.auc.org.ua/novyna/u-verhovniy-radi-vidbuvayetsya-testuvannya-informaciynogo-resursu-portal-gromadskogo
-[34]: Громадське обговорення - 2016 [Електронний ресурс]. – Режим доступу: http://mon.gov.ua/citizens/zv%E2%80%99yazki-z-gromadskistyu/konsultacziyi-z-gromadskistyu/gromadske-obgovorennya-2016.html
-[35]: Постанова Кабінету Міністрів України [Електронний ресурс]. – Режим доступу: http://zakon3.rada.gov.ua/laws/show/555-2011-%D0%BF
-[36]: Положення про громадські слухання в місті Вінниці [Електронний ресурс]. – Режим доступу: http://www.vmr.gov.ua/TransparentCity/ContentLibrary/962bed5e-90d9-4ed7-9661-fbd07d109688/1/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%80%D0%BE%20%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D1%96%20%D1%81%D0%BB%D1%83%D1%85%D0%B0%D0%BD%D0%BD%D1%8F.pdf
+[30]: Конституція України [Електронний ресурс]. – Режим доступу:  http://zakon3.rada.gov.ua/laws/show/254%D0%BA/96-%D0%B2%D1%80  
+[31]: Конституція України [Електронний ресурс]. – Режим доступу:  http://zakon3.rada.gov.ua/laws/show/254%D0%BA/96-%D0%B2%D1%80  
+[32]: Закону України «Про звернення громадян» [Електронний ресурс]. – Режим доступу: http://zakon3.rada.gov.ua/laws/show/393/96-%D0%B2%D1%80  
+[33]: У Верховній Раді відбувається тестування інформаційного ресурсу «Портал громадського обговорення законопроектів» [Електронний ресурс]. – Режим доступу: https://www.auc.org.ua/novyna/u-verhovniy-radi-vidbuvayetsya-testuvannya-informaciynogo-resursu-portal-gromadskogo  
+[34]: Громадське обговорення - 2016 [Електронний ресурс]. – Режим доступу: http://mon.gov.ua/citizens/zv%E2%80%99yazki-z-gromadskistyu/konsultacziyi-z-gromadskistyu/gromadske-obgovorennya-2016.html  
+[35]: Постанова Кабінету Міністрів України [Електронний ресурс]. – Режим доступу: http://zakon3.rada.gov.ua/laws/show/555-2011-%D0%BF  
+[36]: Положення про громадські слухання в місті Вінниці [Електронний ресурс]. – Режим доступу: http://www.vmr.gov.ua/TransparentCity/ContentLibrary/962bed5e-90d9-4ed7-9661-fbd07d109688/1/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%80%D0%BE%20%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D1%96%20%D1%81%D0%BB%D1%83%D1%85%D0%B0%D0%BD%D0%BD%D1%8F.pdf  
 
 # 4. Особливості використання інструментів е-демократії у містах України
 
